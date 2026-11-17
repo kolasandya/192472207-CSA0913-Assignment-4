@@ -1,0 +1,14 @@
+{
+    "java.project.sourcePaths": [
+        "Task01_FeePayment",
+        "Task02_HospitalDesk",
+        "Task03_LibrarySearch",
+        "Task04_DrawPad",
+        "Task05_CurrencyConverter",
+        "Task06_EventRegistration"
+    ],
+    "java.project.outputPath": "bin",
+    "files.exclude": {
+        "bin": true
+    }
+}
